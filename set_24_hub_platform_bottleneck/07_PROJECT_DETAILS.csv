@@ -1,0 +1,13 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T2401,Hub platform bottleneck 1,2048-05-16,Construction,Non-live (Others),1,2027-07-11,2027-04-04,1,PM,3
+T2402,Hub platform bottleneck 2,2048-06-02,Renewal,Non-live (Others),2,2027-07-11,2027-04-04,1,PC,3
+T2403,Hub platform bottleneck 3,2048-06-19,Construction,Non-live (Others),3,2027-07-11,2027-04-04,1,C,3
+T2404,Hub platform bottleneck 4,2048-07-06,Renewal,Non-live (Others),1,2027-07-11,2027-04-04,1,PM,3
+T2405,Hub platform bottleneck 5,2048-07-23,Construction,Non-live (Others),2,2027-07-11,2027-04-04,1,PC,3
+T2406,Hub platform bottleneck 6,2048-08-09,Renewal,Non-live (Others),3,2027-07-11,2027-04-04,1,C,3
+T2407,Hub platform bottleneck 7,2048-08-26,Construction,Non-live (Others),1,2027-07-11,2027-04-04,1,PM,3
+T2408,Hub platform bottleneck 8,2048-09-12,Renewal,Non-live (Others),2,2027-07-11,2027-04-04,1,PC,3
+T2409,Hub platform bottleneck 9,2048-09-29,Construction,Non-live (Others),3,2027-07-11,2027-04-04,1,C,3
+T2410,Hub platform bottleneck 10,2048-10-16,Renewal,Non-live (Others),1,2027-07-11,2027-04-04,1,PM,3
+T2411,Hub platform bottleneck 11,2048-11-02,Construction,Non-live (Others),2,2027-07-11,2027-04-04,1,PC,3
+T2412,Hub platform bottleneck 12,2048-11-19,Renewal,Non-live (Others),3,2027-07-11,2027-04-04,1,C,3

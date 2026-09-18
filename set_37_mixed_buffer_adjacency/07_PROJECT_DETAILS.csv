@@ -1,0 +1,16 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T3701,Mixed buffer programme 1,2060-06-22,Construction,Live,1,2027-07-18,2027-04-18,1,PM,2
+T3702,Mixed buffer programme 2,2060-07-09,Renewal,Non-live (Consist),2,2027-07-18,2027-04-18,1,C,3
+T3703,Mixed buffer programme 3,2060-07-26,Construction,Non-live (Others),3,2027-07-18,2027-04-18,1,PC,3
+T3704,Mixed buffer programme 4,2060-08-12,Renewal,Live,1,2027-07-18,2027-04-18,1,PM,2
+T3705,Mixed buffer programme 5,2060-08-29,Construction,Non-live (Consist),2,2027-07-18,2027-04-18,1,PC,3
+T3706,Mixed buffer programme 6,2060-09-15,Renewal,Non-live (Others),3,2027-07-18,2027-04-18,1,C,3
+T3707,Mixed buffer programme 7,2060-10-02,Construction,Live,1,2027-07-18,2027-04-18,1,PM,2
+T3708,Mixed buffer programme 8,2060-10-19,Renewal,Non-live (Consist),2,2027-07-18,2027-04-18,1,C,3
+T3709,Mixed buffer programme 9,2060-11-05,Construction,Non-live (Others),3,2027-07-18,2027-04-18,1,PC,3
+T3710,Mixed buffer programme 10,2060-11-22,Renewal,Live,1,2027-07-18,2027-04-18,1,PM,2
+T3711,Mixed buffer programme 11,2060-12-09,Construction,Non-live (Consist),2,2027-07-18,2027-04-18,1,PC,3
+T3712,Mixed buffer programme 12,2060-12-26,Renewal,Non-live (Others),3,2027-07-18,2027-04-18,1,C,3
+T3713,Mixed buffer programme 13,2061-01-12,Construction,Live,1,2027-07-18,2027-04-18,1,PM,2
+T3714,Mixed buffer programme 14,2061-01-29,Renewal,Non-live (Consist),2,2027-07-18,2027-04-18,1,C,3
+T3715,Mixed buffer programme 15,2061-02-15,Construction,Non-live (Others),3,2027-07-18,2027-04-18,1,PC,3

@@ -1,0 +1,9 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T801,Weekly access cap programme 1,2033-06-24,Renewal,Live,1,2027-06-06,2027-03-07,3,PC,2
+T802,Weekly access cap programme 2,2033-07-11,Construction,Non-live (Others),2,2027-06-06,2027-03-14,3,C,3
+T803,Weekly access cap programme 3,2033-07-28,Renewal,Non-live (Others),3,2027-06-06,2027-03-07,3,PC,3
+T804,Weekly access cap programme 4,2033-08-14,Construction,Non-live (Others),1,2027-06-06,2027-03-14,3,C,3
+T805,Weekly access cap programme 5,2033-08-31,Renewal,Live,2,2027-06-06,2027-03-07,3,PC,2
+T806,Weekly access cap programme 6,2033-09-17,Construction,Non-live (Others),3,2027-06-06,2027-03-14,3,C,3
+T807,Weekly access cap programme 7,2033-10-04,Renewal,Non-live (Others),1,2027-06-06,2027-03-07,3,PC,3
+T808,Weekly access cap programme 8,2033-10-21,Construction,Non-live (Others),2,2027-06-06,2027-03-14,3,C,3

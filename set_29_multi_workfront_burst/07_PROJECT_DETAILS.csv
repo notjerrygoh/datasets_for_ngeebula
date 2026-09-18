@@ -1,0 +1,7 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T2901,Multi-workfront burst 1,2053-01-10,Renewal,Non-live (Others),1,2027-06-20,2027-01-31,3,C,3
+T2902,Multi-workfront burst 2,2053-01-27,Construction,Non-live (Others),2,2027-06-20,2027-01-31,3,C,3
+T2903,Multi-workfront burst 3,2053-02-13,Renewal,Non-live (Others),3,2027-06-20,2027-01-31,3,C,3
+T2904,Multi-workfront burst 4,2053-03-02,Construction,Non-live (Others),1,2027-06-20,2027-01-31,3,C,3
+T2905,Multi-workfront burst 5,2053-03-19,Renewal,Non-live (Others),2,2027-06-20,2027-01-31,3,C,3
+T2906,Multi-workfront burst 6,2053-04-05,Construction,Non-live (Others),3,2027-06-20,2027-01-31,3,C,3

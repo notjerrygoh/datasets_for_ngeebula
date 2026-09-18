@@ -1,0 +1,13 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T3901,Cross-line Live lock 1,2062-05-03,Construction,Live,1,2027-07-25,2027-04-25,1,PC,2
+T3902,Cross-line Live lock 2,2062-05-20,Renewal,Live,2,2027-07-25,2027-04-25,1,PM,2
+T3903,Cross-line Live lock 3,2062-06-06,Construction,Live,3,2027-07-25,2027-04-25,1,PC,2
+T3904,Cross-line Live lock 4,2062-06-23,Renewal,Live,1,2027-07-25,2027-04-25,1,PM,2
+T3905,Cross-line Live lock 5,2062-07-10,Construction,Live,2,2027-07-25,2027-04-25,1,PC,2
+T3906,Cross-line Live lock 6,2062-07-27,Renewal,Live,3,2027-07-25,2027-04-25,1,PM,2
+T3907,Cross-line Live lock 7,2062-08-13,Construction,Live,1,2027-07-25,2027-04-25,1,PC,2
+T3908,Cross-line Live lock 8,2062-08-30,Renewal,Live,2,2027-07-25,2027-04-25,1,PM,2
+T3909,Cross-line Live lock 9,2062-09-16,Construction,Live,3,2027-07-25,2027-04-25,1,PC,2
+T3910,Cross-line Live lock 10,2062-10-03,Renewal,Live,1,2027-07-25,2027-04-25,1,PM,2
+T3911,Cross-line Live lock 11,2062-10-20,Construction,Live,2,2027-07-25,2027-04-25,1,PC,2
+T3912,Cross-line Live lock 12,2062-11-06,Renewal,Live,3,2027-07-25,2027-04-25,1,PM,2

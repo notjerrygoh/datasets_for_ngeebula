@@ -1,0 +1,17 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T4401,Alternating bound programme 1,2066-12-28,Renewal,Live,1,2027-07-18,2027-04-11,1,PM,2
+T4402,Alternating bound programme 2,2067-01-14,Construction,Non-live (Others),2,2027-07-18,2027-04-18,1,PC,3
+T4403,Alternating bound programme 3,2067-01-31,Renewal,Non-live (Others),3,2027-07-18,2027-04-25,1,C,3
+T4404,Alternating bound programme 4,2067-02-17,Construction,Non-live (Others),1,2027-07-18,2027-04-11,1,PC,3
+T4405,Alternating bound programme 5,2067-03-06,Renewal,Live,2,2027-07-18,2027-04-18,1,PM,2
+T4406,Alternating bound programme 6,2067-03-23,Construction,Non-live (Others),3,2027-07-18,2027-04-25,1,PC,3
+T4407,Alternating bound programme 7,2067-04-09,Renewal,Non-live (Others),1,2027-07-18,2027-04-11,1,C,3
+T4408,Alternating bound programme 8,2067-04-26,Construction,Non-live (Others),2,2027-07-18,2027-04-18,1,PC,3
+T4409,Alternating bound programme 9,2067-05-13,Renewal,Live,3,2027-07-18,2027-04-25,1,PM,2
+T4410,Alternating bound programme 10,2067-05-30,Construction,Non-live (Others),1,2027-07-18,2027-04-11,1,PC,3
+T4411,Alternating bound programme 11,2067-06-16,Renewal,Non-live (Others),2,2027-07-18,2027-04-18,1,C,3
+T4412,Alternating bound programme 12,2067-07-03,Construction,Non-live (Others),3,2027-07-18,2027-04-25,1,PC,3
+T4413,Alternating bound programme 13,2067-07-20,Renewal,Live,1,2027-07-18,2027-04-11,1,PM,2
+T4414,Alternating bound programme 14,2067-08-06,Construction,Non-live (Others),2,2027-07-18,2027-04-18,1,PC,3
+T4415,Alternating bound programme 15,2067-08-23,Renewal,Non-live (Others),3,2027-07-18,2027-04-25,1,C,3
+T4416,Alternating bound programme 16,2067-09-09,Construction,Non-live (Others),1,2027-07-18,2027-04-11,1,PC,3

@@ -1,0 +1,31 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T4501,Mega portfolio programme 1,2067-12-03,Construction,Live,1,2027-06-20,2027-04-04,1,PM,2
+T4502,Mega portfolio programme 2,2067-12-20,Renewal,Non-live (Consist),2,2027-06-27,2027-04-11,2,PC,3
+T4503,Mega portfolio programme 3,2068-01-06,Construction,Non-live (Others),3,2027-07-04,2027-04-18,3,C,3
+T4504,Mega portfolio programme 4,2068-01-23,Renewal,Non-live (Others),1,2027-07-11,2027-04-25,1,C,3
+T4505,Mega portfolio programme 5,2068-02-09,Construction,Non-live (Others),2,2027-07-18,2027-05-02,2,PM,3
+T4506,Mega portfolio programme 6,2068-02-26,Renewal,Live,3,2027-07-25,2027-05-09,3,PC,2
+T4507,Mega portfolio programme 7,2068-03-14,Construction,Non-live (Consist),1,2027-08-01,2027-05-16,1,C,3
+T4508,Mega portfolio programme 8,2068-03-31,Renewal,Non-live (Others),2,2027-06-20,2027-05-23,2,C,3
+T4509,Mega portfolio programme 9,2068-04-17,Construction,Non-live (Others),3,2027-06-27,2027-04-04,3,PM,3
+T4510,Mega portfolio programme 10,2068-05-04,Renewal,Non-live (Others),1,2027-07-04,2027-04-11,1,PC,3
+T4511,Mega portfolio programme 11,2068-05-21,Construction,Live,2,2027-07-11,2027-04-18,2,PM,2
+T4512,Mega portfolio programme 12,2068-06-07,Renewal,Non-live (Consist),3,2027-07-18,2027-04-25,3,C,3
+T4513,Mega portfolio programme 13,2068-06-24,Construction,Non-live (Others),1,2027-07-25,2027-05-02,1,PM,3
+T4514,Mega portfolio programme 14,2068-07-11,Renewal,Non-live (Others),2,2027-08-01,2027-05-09,2,PC,3
+T4515,Mega portfolio programme 15,2068-07-28,Construction,Non-live (Others),3,2027-06-20,2027-05-16,3,C,3
+T4516,Mega portfolio programme 16,2068-08-14,Renewal,Live,1,2027-06-27,2027-05-23,1,PC,2
+T4517,Mega portfolio programme 17,2068-08-31,Construction,Non-live (Consist),2,2027-07-04,2027-04-04,2,PM,3
+T4518,Mega portfolio programme 18,2068-09-17,Renewal,Non-live (Others),3,2027-07-11,2027-04-11,3,PC,3
+T4519,Mega portfolio programme 19,2068-10-04,Construction,Non-live (Others),1,2027-07-18,2027-04-18,1,C,3
+T4520,Mega portfolio programme 20,2068-10-21,Renewal,Non-live (Others),2,2027-07-25,2027-04-25,2,C,3
+T4521,Mega portfolio programme 21,2068-11-07,Construction,Live,3,2027-08-01,2027-05-02,3,PM,2
+T4522,Mega portfolio programme 22,2068-11-24,Renewal,Non-live (Consist),1,2027-06-20,2027-05-09,1,PC,3
+T4523,Mega portfolio programme 23,2068-12-11,Construction,Non-live (Others),2,2027-06-27,2027-05-16,2,C,3
+T4524,Mega portfolio programme 24,2068-12-28,Renewal,Non-live (Others),3,2027-07-04,2027-05-23,3,C,3
+T4525,Mega portfolio programme 25,2069-01-14,Construction,Non-live (Others),1,2027-07-11,2027-04-04,1,PM,3
+T4526,Mega portfolio programme 26,2069-01-31,Renewal,Live,2,2027-07-18,2027-04-11,2,PC,2
+T4527,Mega portfolio programme 27,2069-02-17,Construction,Non-live (Consist),3,2027-07-25,2027-04-18,3,C,3
+T4528,Mega portfolio programme 28,2069-03-06,Renewal,Non-live (Others),1,2027-08-01,2027-04-25,1,C,3
+T4529,Mega portfolio programme 29,2069-03-23,Construction,Non-live (Others),2,2027-06-20,2027-05-02,2,PM,3
+T4530,Mega portfolio programme 30,2069-04-09,Renewal,Non-live (Others),3,2027-06-27,2027-05-09,3,PC,3

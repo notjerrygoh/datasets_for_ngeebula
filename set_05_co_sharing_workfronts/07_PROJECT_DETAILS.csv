@@ -1,0 +1,15 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T501,PC sharing and workfront programme 1,2029-10-03,Construction,Non-live (Others),1,2027-06-20,2027-03-28,1,PC,3
+T502,PC sharing and workfront programme 2,2029-10-20,Renewal,Non-live (Others),2,2027-06-27,2027-04-04,1,PC,3
+T503,PC sharing and workfront programme 3,2029-11-06,Construction,Non-live (Others),3,2027-07-04,2027-04-11,1,PC,3
+T504,PC sharing and workfront programme 4,2029-11-23,Renewal,Non-live (Others),1,2027-07-11,2027-04-18,1,PC,3
+T505,C sharing and workfront programme 5,2029-12-10,Construction,Non-live (Others),2,2027-06-20,2027-04-25,1,C,3
+T506,C sharing and workfront programme 6,2029-12-27,Renewal,Non-live (Others),3,2027-06-27,2027-03-28,1,C,3
+T507,C sharing and workfront programme 7,2030-01-13,Construction,Non-live (Others),1,2027-07-04,2027-04-04,1,C,3
+T508,C sharing and workfront programme 8,2030-01-30,Renewal,Non-live (Others),2,2027-07-11,2027-04-11,1,C,3
+T509,C sharing and workfront programme 9,2030-02-16,Construction,Non-live (Others),3,2027-06-20,2027-04-18,1,C,3
+T510,C sharing and workfront programme 10,2030-03-05,Renewal,Non-live (Others),1,2027-06-27,2027-04-25,1,C,3
+T511,C sharing and workfront programme 11,2030-03-22,Construction,Non-live (Others),2,2027-07-04,2027-03-28,1,C,3
+T512,C sharing and workfront programme 12,2030-04-08,Renewal,Non-live (Others),3,2027-07-11,2027-04-04,1,C,3
+T513,PM sharing and workfront programme 13,2030-04-25,Construction,Non-live (Consist),1,2027-06-20,2027-04-11,1,PM,3
+T514,PM sharing and workfront programme 14,2030-05-12,Renewal,Live,2,2027-06-27,2027-04-18,1,PM,2

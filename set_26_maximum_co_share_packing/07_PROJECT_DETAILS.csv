@@ -1,0 +1,21 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T2601,Maximum co-share programme 1,2050-03-27,Construction,Non-live (Others),1,2027-06-20,2027-02-28,1,PC,3
+T2602,Maximum co-share programme 2,2050-04-13,Renewal,Non-live (Others),2,2027-06-20,2027-02-28,1,PC,3
+T2603,Maximum co-share programme 3,2050-04-30,Construction,Non-live (Others),3,2027-06-20,2027-02-28,1,PC,3
+T2604,Maximum co-share programme 4,2050-05-17,Renewal,Non-live (Others),1,2027-06-20,2027-02-28,1,PC,3
+T2605,Maximum co-share programme 5,2050-06-03,Construction,Non-live (Others),2,2027-06-20,2027-02-28,1,PC,3
+T2606,Maximum co-share programme 6,2050-06-20,Renewal,Non-live (Others),3,2027-06-20,2027-02-28,1,C,3
+T2607,Maximum co-share programme 7,2050-07-07,Construction,Non-live (Others),1,2027-06-20,2027-02-28,1,C,3
+T2608,Maximum co-share programme 8,2050-07-24,Renewal,Non-live (Others),2,2027-06-20,2027-02-28,1,C,3
+T2609,Maximum co-share programme 9,2050-08-10,Construction,Non-live (Others),3,2027-06-20,2027-02-28,1,C,3
+T2610,Maximum co-share programme 10,2050-08-27,Renewal,Non-live (Others),1,2027-06-20,2027-02-28,1,C,3
+T2611,Maximum co-share programme 11,2050-09-13,Construction,Non-live (Others),2,2027-06-20,2027-02-28,1,C,3
+T2612,Maximum co-share programme 12,2050-09-30,Renewal,Non-live (Others),3,2027-06-20,2027-02-28,1,C,3
+T2613,Maximum co-share programme 13,2050-10-17,Construction,Non-live (Others),1,2027-06-20,2027-02-28,1,C,3
+T2614,Maximum co-share programme 14,2050-11-03,Renewal,Non-live (Others),2,2027-06-20,2027-02-28,1,C,3
+T2615,Maximum co-share programme 15,2050-11-20,Construction,Non-live (Others),3,2027-06-20,2027-02-28,1,C,3
+T2616,Maximum co-share programme 16,2050-12-07,Renewal,Non-live (Others),1,2027-06-20,2027-02-28,1,C,3
+T2617,Maximum co-share programme 17,2050-12-24,Construction,Non-live (Others),2,2027-06-20,2027-02-28,1,C,3
+T2618,Maximum co-share programme 18,2051-01-10,Renewal,Non-live (Others),3,2027-06-20,2027-02-28,1,C,3
+T2619,Maximum co-share programme 19,2051-01-27,Construction,Non-live (Others),1,2027-06-20,2027-02-28,1,C,3
+T2620,Maximum co-share programme 20,2051-02-13,Renewal,Non-live (Others),2,2027-06-20,2027-02-28,1,C,3

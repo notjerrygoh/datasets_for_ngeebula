@@ -1,0 +1,13 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T1901,Cross-contract dependency programme 1,2043-09-20,Renewal,Non-live (Others),1,2027-07-25,2027-05-02,1,PC,3
+T1902,Cross-contract dependency programme 2,2043-10-07,Construction,Non-live (Others),2,2027-07-25,2027-05-02,1,C,3
+T1903,Cross-contract dependency programme 3,2043-10-24,Renewal,Non-live (Others),3,2027-07-25,2027-05-02,1,C,3
+T1904,Cross-contract dependency programme 4,2043-11-10,Construction,Non-live (Others),1,2027-07-25,2027-05-02,1,PC,3
+T1905,Cross-contract dependency programme 5,2043-11-27,Renewal,Non-live (Others),2,2027-07-25,2027-05-02,1,C,3
+T1906,Cross-contract dependency programme 6,2043-12-14,Construction,Non-live (Others),3,2027-07-25,2027-05-02,1,C,3
+T1907,Cross-contract dependency programme 7,2043-12-31,Renewal,Non-live (Others),1,2027-07-25,2027-05-02,1,PC,3
+T1908,Cross-contract dependency programme 8,2044-01-17,Construction,Non-live (Others),2,2027-07-25,2027-05-02,1,C,3
+T1909,Cross-contract dependency programme 9,2044-02-03,Renewal,Non-live (Others),3,2027-07-25,2027-05-02,1,C,3
+T1910,Cross-contract dependency programme 10,2044-02-20,Construction,Non-live (Others),1,2027-07-25,2027-05-02,1,PC,3
+T1911,Cross-contract dependency programme 11,2044-03-08,Renewal,Non-live (Others),2,2027-07-25,2027-05-02,1,C,3
+T1912,Cross-contract dependency programme 12,2044-03-25,Construction,Non-live (Others),3,2027-07-25,2027-05-02,1,C,3

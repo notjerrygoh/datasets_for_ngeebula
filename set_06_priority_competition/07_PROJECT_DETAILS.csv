@@ -1,0 +1,16 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T601,Priority competition programme 1,2031-08-14,Renewal,Non-live (Others),1,2027-06-20,2027-03-28,1,PM,3
+T602,Priority competition programme 2,2031-08-31,Construction,Non-live (Others),1,2027-06-20,2027-03-28,1,PM,3
+T603,Priority competition programme 3,2031-09-17,Renewal,Non-live (Others),1,2027-06-20,2027-03-28,1,PM,3
+T604,Priority competition programme 4,2031-10-04,Construction,Non-live (Others),1,2027-06-20,2027-03-28,1,PM,3
+T605,Priority competition programme 5,2031-10-21,Renewal,Non-live (Others),1,2027-06-20,2027-03-28,1,PM,3
+T606,Priority competition programme 6,2031-11-07,Construction,Non-live (Others),2,2027-06-20,2027-03-28,1,PM,3
+T607,Priority competition programme 7,2031-11-24,Renewal,Non-live (Others),2,2027-06-20,2027-03-28,1,PM,3
+T608,Priority competition programme 8,2031-12-11,Construction,Non-live (Others),2,2027-06-20,2027-03-28,1,PM,3
+T609,Priority competition programme 9,2031-12-28,Renewal,Non-live (Others),2,2027-06-20,2027-03-28,1,PM,3
+T610,Priority competition programme 10,2032-01-14,Construction,Non-live (Others),2,2027-06-20,2027-03-28,1,PM,3
+T611,Priority competition programme 11,2032-01-31,Renewal,Non-live (Others),3,2027-06-20,2027-03-28,1,PM,3
+T612,Priority competition programme 12,2032-02-17,Construction,Non-live (Others),3,2027-06-20,2027-03-28,1,PM,3
+T613,Priority competition programme 13,2032-03-05,Renewal,Non-live (Others),3,2027-06-20,2027-03-28,1,PM,3
+T614,Priority competition programme 14,2032-03-22,Construction,Non-live (Others),3,2027-06-20,2027-03-28,1,PM,3
+T615,Priority competition programme 15,2032-04-08,Renewal,Non-live (Others),3,2027-06-20,2027-03-28,1,PM,3

@@ -1,0 +1,19 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T1501,Mixed network portfolio 1,2039-12-30,Renewal,Live,1,2027-06-27,2027-04-25,1,PC,2
+T1502,Mixed network portfolio 2,2040-01-16,Construction,Non-live (Consist),2,2027-07-04,2027-05-02,2,C,3
+T1503,Mixed network portfolio 3,2040-02-02,Renewal,Non-live (Others),3,2027-07-11,2027-05-09,1,C,3
+T1504,Mixed network portfolio 4,2040-02-19,Construction,Non-live (Others),1,2027-07-18,2027-05-16,2,PM,3
+T1505,Mixed network portfolio 5,2040-03-07,Renewal,Live,2,2027-07-25,2027-05-23,1,PC,2
+T1506,Mixed network portfolio 6,2040-03-24,Construction,Non-live (Consist),3,2027-06-27,2027-04-25,2,C,3
+T1507,Mixed network portfolio 7,2040-04-10,Renewal,Non-live (Others),1,2027-07-04,2027-05-02,1,C,3
+T1508,Mixed network portfolio 8,2040-04-27,Construction,Non-live (Others),2,2027-07-11,2027-05-09,2,PM,3
+T1509,Mixed network portfolio 9,2040-05-14,Renewal,Live,3,2027-07-18,2027-05-16,1,PC,2
+T1510,Mixed network portfolio 10,2040-05-31,Construction,Non-live (Consist),1,2027-07-25,2027-05-23,2,C,3
+T1511,Mixed network portfolio 11,2040-06-17,Renewal,Non-live (Others),2,2027-06-27,2027-04-25,1,C,3
+T1512,Mixed network portfolio 12,2040-07-04,Construction,Non-live (Others),3,2027-07-04,2027-05-02,2,PM,3
+T1513,Mixed network portfolio 13,2040-07-21,Renewal,Live,1,2027-07-11,2027-05-09,1,PC,2
+T1514,Mixed network portfolio 14,2040-08-07,Construction,Non-live (Consist),2,2027-07-18,2027-05-16,2,C,3
+T1515,Mixed network portfolio 15,2040-08-24,Renewal,Non-live (Others),3,2027-07-25,2027-05-23,1,C,3
+T1516,Mixed network portfolio 16,2040-09-10,Construction,Non-live (Others),1,2027-06-27,2027-04-25,2,PM,3
+T1517,Mixed network portfolio 17,2040-09-27,Renewal,Live,2,2027-07-04,2027-05-02,1,PC,2
+T1518,Mixed network portfolio 18,2040-10-14,Construction,Non-live (Consist),3,2027-07-11,2027-05-09,2,C,3

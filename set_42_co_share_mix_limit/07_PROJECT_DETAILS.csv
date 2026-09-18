@@ -1,0 +1,25 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T4201,Co-share mix programme 1,2065-02-16,Renewal,Non-live (Others),1,2027-06-13,2027-02-21,1,PC,3
+T4202,Co-share mix programme 2,2065-03-05,Construction,Non-live (Others),2,2027-06-13,2027-02-21,1,PC,3
+T4203,Co-share mix programme 3,2065-03-22,Renewal,Non-live (Others),3,2027-06-13,2027-02-21,1,PC,3
+T4204,Co-share mix programme 4,2065-04-08,Construction,Non-live (Others),1,2027-06-13,2027-02-21,1,PC,3
+T4205,Co-share mix programme 5,2065-04-25,Renewal,Non-live (Others),2,2027-06-13,2027-02-21,1,C,3
+T4206,Co-share mix programme 6,2065-05-12,Construction,Non-live (Others),3,2027-06-13,2027-02-21,1,C,3
+T4207,Co-share mix programme 7,2065-05-29,Renewal,Non-live (Others),1,2027-06-13,2027-02-21,1,C,3
+T4208,Co-share mix programme 8,2065-06-15,Construction,Non-live (Others),2,2027-06-13,2027-02-21,1,C,3
+T4209,Co-share mix programme 9,2065-07-02,Renewal,Non-live (Others),3,2027-06-13,2027-02-21,1,C,3
+T4210,Co-share mix programme 10,2065-07-19,Construction,Non-live (Others),1,2027-06-13,2027-02-21,1,C,3
+T4211,Co-share mix programme 11,2065-08-05,Renewal,Non-live (Others),2,2027-06-13,2027-02-21,1,C,3
+T4212,Co-share mix programme 12,2065-08-22,Construction,Non-live (Others),3,2027-06-13,2027-02-21,1,C,3
+T4213,Co-share mix programme 13,2065-09-08,Renewal,Non-live (Others),1,2027-06-13,2027-02-21,1,C,3
+T4214,Co-share mix programme 14,2065-09-25,Construction,Non-live (Others),2,2027-06-13,2027-02-21,1,C,3
+T4215,Co-share mix programme 15,2065-10-12,Renewal,Non-live (Others),3,2027-06-13,2027-02-21,1,C,3
+T4216,Co-share mix programme 16,2065-10-29,Construction,Non-live (Others),1,2027-06-13,2027-02-21,1,C,3
+T4217,Co-share mix programme 17,2065-11-15,Renewal,Non-live (Others),2,2027-06-13,2027-02-21,1,C,3
+T4218,Co-share mix programme 18,2065-12-02,Construction,Non-live (Others),3,2027-06-13,2027-02-21,1,C,3
+T4219,Co-share mix programme 19,2065-12-19,Renewal,Non-live (Others),1,2027-06-13,2027-02-21,1,C,3
+T4220,Co-share mix programme 20,2066-01-05,Construction,Non-live (Others),2,2027-06-13,2027-02-21,1,C,3
+T4221,Co-share mix programme 21,2066-01-22,Renewal,Non-live (Others),3,2027-06-13,2027-02-21,1,C,3
+T4222,Co-share mix programme 22,2066-02-08,Construction,Non-live (Others),1,2027-06-13,2027-02-21,1,C,3
+T4223,Co-share mix programme 23,2066-02-25,Renewal,Non-live (Others),2,2027-06-13,2027-02-21,1,C,3
+T4224,Co-share mix programme 24,2066-03-14,Construction,Non-live (Others),3,2027-06-13,2027-02-21,1,C,3

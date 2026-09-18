@@ -1,0 +1,13 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T901,Buffer separation programme 1,2034-05-30,Renewal,Live,1,2027-06-27,2027-04-11,1,PM,2
+T902,Buffer separation programme 2,2034-06-16,Construction,Non-live (Consist),2,2027-06-27,2027-04-18,1,PC,3
+T903,Buffer separation programme 3,2034-07-03,Renewal,Non-live (Others),3,2027-06-27,2027-04-25,1,C,3
+T904,Buffer separation programme 4,2034-07-20,Construction,Live,1,2027-06-27,2027-04-11,1,PM,2
+T905,Buffer separation programme 5,2034-08-06,Renewal,Non-live (Consist),2,2027-06-27,2027-04-18,1,PC,3
+T906,Buffer separation programme 6,2034-08-23,Construction,Non-live (Others),3,2027-06-27,2027-04-25,1,C,3
+T907,Buffer separation programme 7,2034-09-09,Renewal,Live,1,2027-06-27,2027-04-11,1,PM,2
+T908,Buffer separation programme 8,2034-09-26,Construction,Non-live (Consist),2,2027-06-27,2027-04-18,1,PC,3
+T909,Buffer separation programme 9,2034-10-13,Renewal,Non-live (Others),3,2027-06-27,2027-04-25,1,C,3
+T910,Buffer separation programme 10,2034-10-30,Construction,Live,1,2027-06-27,2027-04-11,1,PM,2
+T911,Buffer separation programme 11,2034-11-16,Renewal,Non-live (Consist),2,2027-06-27,2027-04-18,1,PC,3
+T912,Buffer separation programme 12,2034-12-03,Construction,Non-live (Others),3,2027-06-27,2027-04-25,1,C,3

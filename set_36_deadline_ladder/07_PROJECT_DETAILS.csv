@@ -1,0 +1,16 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T3601,Deadline ladder programme 1,2059-07-18,Renewal,Non-live (Others),2,2027-06-20,2027-02-07,1,PM,3
+T3602,Deadline ladder programme 2,2059-08-04,Construction,Non-live (Others),2,2027-06-27,2027-02-14,1,PM,3
+T3603,Deadline ladder programme 3,2059-08-21,Renewal,Non-live (Others),2,2027-07-04,2027-02-21,1,PM,3
+T3604,Deadline ladder programme 4,2059-09-07,Construction,Non-live (Others),2,2027-07-11,2027-02-28,1,PM,3
+T3605,Deadline ladder programme 5,2059-09-24,Renewal,Non-live (Others),2,2027-07-18,2027-03-07,1,PM,3
+T3606,Deadline ladder programme 6,2059-10-11,Construction,Non-live (Others),2,2027-06-20,2027-03-14,1,PM,3
+T3607,Deadline ladder programme 7,2059-10-28,Renewal,Non-live (Others),2,2027-06-27,2027-03-21,1,PM,3
+T3608,Deadline ladder programme 8,2059-11-14,Construction,Non-live (Others),2,2027-07-04,2027-03-28,1,PM,3
+T3609,Deadline ladder programme 9,2059-12-01,Renewal,Non-live (Others),2,2027-07-11,2027-04-04,1,PM,3
+T3610,Deadline ladder programme 10,2059-12-18,Construction,Non-live (Others),2,2027-07-18,2027-04-11,1,PM,3
+T3611,Deadline ladder programme 11,2060-01-04,Renewal,Non-live (Others),2,2027-06-20,2027-04-18,1,PM,3
+T3612,Deadline ladder programme 12,2060-01-21,Construction,Non-live (Others),2,2027-06-27,2027-04-25,1,PM,3
+T3613,Deadline ladder programme 13,2060-02-07,Renewal,Non-live (Others),2,2027-07-04,2027-05-02,1,PM,3
+T3614,Deadline ladder programme 14,2060-02-24,Construction,Non-live (Others),2,2027-07-11,2027-05-09,1,PM,3
+T3615,Deadline ladder programme 15,2060-03-12,Renewal,Non-live (Others),2,2027-07-18,2027-05-16,1,PM,3
