@@ -1,0 +1,8 @@
+nature_of_works,up_to_buffer_sectors,opposite_bound_required
+Live,2,1
+Live,-99,0
+Non-live (Consist),one,0
+Non-live (Others),0,maybe
+Teleportation,999,1
+,2,1
+ live ,3,yes

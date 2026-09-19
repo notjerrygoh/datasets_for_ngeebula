@@ -1,0 +1,6 @@
+line_code,line_name,unexpected_notes
+ALP,"Line Alpha, Express",quoted comma challenges naive CSV splitting
+ALP,Duplicate Alpha,duplicate line code
+???,,invalid code and blank name
+BET,12345,numeric line name
+,Ghost Line,missing line code

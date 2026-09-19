@@ -1,0 +1,9 @@
+location_id,location_kind,line_code,bound,supply_capacity
+SEC:ALP:S01_S02:EB,tunnel sector,ALP,EB,4
+SEC:ALP:S01_S02:EB,tunnel sector,ALP,EB,-1
+PLAT:ALP:S01:NB,platform sector,ALP,NB,two
+SEC:ZZZ:S01_S02:EB,tunnel sector,ZZZ,EB,999
+BADLOCATION,banana,ALP,UP,0
+,platform sector,ALP,WB,3
+PLAT:ALP:S01:WB,platform sector,ALP,WB,3.7
+PLAT:BET:H01:EB,platform sector,BET,EB,NaN

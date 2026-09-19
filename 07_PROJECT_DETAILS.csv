@@ -1,0 +1,7 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+C001,"Broken contract, first copy",2028-12-99,Renewal,Quantum tunnelling,0,2027-01-01,2026-12-01,0,X,-1
+C001,Duplicate contract record,not-a-date,Construction,Live,99,yesterday,tomorrow,many,PM,3.7
+C002,Backwards dates,2030-01-01,!!!,Non-live (Consist),2,2027-02-01,2026-01-01,-2,C,0
+C003,Unknown possession type,2026-01-01,Renewal,Non-live (Others),banana,2027-03-01,2027-02-01,1,SOLO,999
+,Missing contract number,2026-01-01,Renewal,Live,1,2027-04-01,2027-03-01,1,PC,2
+C004,Blank required fields,,Renewal,,1,,,1,C,3
